@@ -1,4 +1,4 @@
 ![workflow](https://github.com/kp-k/sem/actions/workflows/main.yml/badge.svg)
-[![Releases](https://img.shields.io/github/release/kp-k/sem/all.svg?style=flat-square)](https://github.com/kp-k/sem/releases)
+[![LICENSE](https://img.shields.io/github/license/kp-k/sem.svg?style=flat-square)](https://github.com/kp-k/sem/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/kp-k/sem/all.svg?style=flat-square)](https://github.com/kp-k/sem/releases)
 THN is an idiot. 
